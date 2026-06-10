@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "FEMBOY",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "Thegoontastics5.aternos.me",
     "port": 29195,
     "version": "1.21.1"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "FEMBOY.EXE1"
     },
     "anti-afk": {
       "enabled": true,
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 2000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I AM A BOT RUNNING THE SERVER",
+        "PLAY THE GAME NORMALY",
+        "UWU :3"
       ]
     },
     "chat-log": true,
