@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Thegoontastics5.aternos.me",
+    "port": 37219,
     "version": "1.21.1"
   },
   "position": {
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 1000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a bot running the server up",
+        "play the game normally",
+        "Mind your own business."
       ]
     },
     "chat-log": true,
