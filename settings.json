@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFK BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Thegoontastics5.aternos.me",
+    "port": 37219,
     "version": "1.21.1"
   },
   "position": {
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 2500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hi, I run the server 24/7.",
+        "just play normally",
+        "BE NICE TO EACH OTHER"
       ]
     },
     "chat-log": true,
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": true,
